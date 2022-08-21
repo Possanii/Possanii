@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)]
+![MasterHead](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Gustavo Possani Piovesan</h1>
 <h3 align="center">A student working on myself</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
