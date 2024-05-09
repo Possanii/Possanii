@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **NEXTPOINT**
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
+- 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
 
 - 📫 How to reach me **gpossanii@outlook.com**
 
