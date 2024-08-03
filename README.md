@@ -1,4 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi there👋, I'm Gustavo Possani Piovesan</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -22,12 +21,13 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=possanii&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=possanii&theme=nord&count_private=true" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=possanii&theme=nord&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=possanii&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true" alt="GitHub Stats" />
 
 
