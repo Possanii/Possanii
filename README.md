@@ -3,7 +3,9 @@
 
 
 
-- 🔭 I’m currently working as **FULL STACK DEVELOPER**
+- 🔭 I’m currently working as **Software enginner I**
+
+- 👨‍💻 Working at **John Deere** 
 
 - 📫 How to reach me **gpossanii@outlook.com**
 
